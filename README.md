@@ -1,3 +1,3 @@
 # MATH156 Project
 
-All parts of the dataset are included, but we only used the first training and testing portion of the NoAuction MinMax Normalized data.
+The dataset is too big to be uploaded to github, so a link to download is provided in the Jupyter Notebook
